@@ -1,0 +1,22 @@
+[
+  
+  {
+    "id":1,
+    "name":"Hardware Repairs",
+    "description":"Hardware repair technicians repair physical equipment such as computer hardware, office machinery, laptops, automatic teller machines (ATMs) and desktop computers. Read on for some pros and cons of working as a hardware repair technician to see if it seems like the right fit for you.",
+    "image": "computer-icon.png"
+  },
+    {
+    "id":2,
+    "name":"Virus Removal",
+    "description":"Remove the most common virus and malware infections from your PC using AVG Protection FREE—voted the best malware removal product of 2014 by AV-Comparatives. It will remove your virus or malware and keep you protected from then on.",
+    "image": "computer-icon.png"
+  },
+    {
+    "id":3,
+    "name":"System Tuneup",
+    "description":"TuneUp is the fastest and easiest way to fix your digital music. Fix mislabeled songs, add missing cover art and remove duplicate tracks - in just a few clicks.",
+    "image": "computer-icon.png"
+  }
+  
+]
